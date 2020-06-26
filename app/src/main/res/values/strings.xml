@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VonVoIP</string>
+    <string name="title_activity_audio_talk">AudioCall</string>
+</resources>
